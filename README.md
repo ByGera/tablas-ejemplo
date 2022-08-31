@@ -23,7 +23,6 @@
     <hr>
     <br>
     <Table>
-        <TR>
             <TD><h2> 7 lenguales de programacion mejor pagados del mundo </h2></TD>
             <TD><ul>
                 <LI>C</LI>
